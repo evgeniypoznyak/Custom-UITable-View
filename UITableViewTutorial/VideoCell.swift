@@ -17,5 +17,5 @@ class VideoCell: UITableViewCell {
         videoImageView.image = video.image
         videoTitleLabel.text = video.title
     }
-    
+
 }
